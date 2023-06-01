@@ -8,4 +8,8 @@ def calculadora(a, b, p)
 		print('A multiplicação será: ', a * b)
 	if p == 'DIVISÃO':
 		print('A divisão será: ', a / b)
+		
+
+print('='*25, 'CALCULADORA SIMPLES', '='*25)
+
 
