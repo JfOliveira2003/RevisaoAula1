@@ -13,5 +13,7 @@ def calculadora(a, b):
 print('='*25, 'CALCULADORA SIMPLES', '='*25)
 n1 = int(input('Digite o primeiro número: '))
 n2 = int(input('Digite o segundo número: '))
+calculadora(n1, n2)
+
 
 
